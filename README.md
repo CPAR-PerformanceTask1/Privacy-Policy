@@ -6,7 +6,7 @@ This document outlines the privacy practices for the Amazon Seller Central Inven
 
 ## Last Updated
 
-[Insert Date]
+27 August 2024
 
 ## Key Privacy Practices
 
@@ -49,11 +49,7 @@ This document outlines the privacy practices for the Amazon Seller Central Inven
 ## Contact Information
 
 For privacy-related questions or concerns, please contact:
-[Your Contact Email]
-
-## Full Privacy Policy
-
-[Link to Full Privacy Policy]
+mapesosgean@gmail.com
 
 ## Compliance Statement
 
